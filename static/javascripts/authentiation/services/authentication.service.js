@@ -1,6 +1,7 @@
 (function (){
 	'use strict';
 
+
 	angular
 	.module('thinkster.authentication.services')
 	.factory('Authentication', Authentication);
